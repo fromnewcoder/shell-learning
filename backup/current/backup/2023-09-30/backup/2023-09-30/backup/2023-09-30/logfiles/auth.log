@@ -1,0 +1,67 @@
+Sep 26 23:30:52 ggsd login[1014]: pam_unix(login:session): session opened for user jim(uid=1000) by (uid=0)
+Sep 26 23:30:52 ggsd systemd-logind[157]: New session c1 of user jim.
+Sep 26 23:30:52 ggsd systemd: pam_unix(systemd-user:session): session opened for user jim(uid=1000) by (uid=0)
+Sep 27 00:17:01 ggsd CRON[3888]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 27 00:17:01 ggsd CRON[3888]: pam_unix(cron:session): session closed for user root
+Sep 28 08:58:30 ggsd systemd-logind[176]: New seat seat0.
+Sep 28 08:58:33 ggsd login[1294]: pam_unix(login:session): session opened for user jim(uid=1000) by (uid=0)
+Sep 28 08:58:33 ggsd systemd-logind[176]: New session c1 of user jim.
+Sep 28 08:58:33 ggsd systemd: pam_unix(systemd-user:session): session opened for user jim(uid=1000) by (uid=0)
+Sep 28 09:17:01 ggsd CRON[3386]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 09:17:01 ggsd CRON[3386]: pam_unix(cron:session): session closed for user root
+Sep 28 14:17:01 ggsd CRON[3611]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 14:17:01 ggsd CRON[3611]: pam_unix(cron:session): session closed for user root
+Sep 28 23:17:01 ggsd CRON[4128]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 23:17:01 ggsd CRON[4128]: pam_unix(cron:session): session closed for user root
+Sep 28 23:32:39 ggsd systemd-logind[163]: New seat seat0.
+Sep 28 23:32:42 ggsd login[1012]: pam_unix(login:session): session opened for user jim(uid=1000) by (uid=0)
+Sep 28 23:32:42 ggsd systemd-logind[163]: New session c1 of user jim.
+Sep 28 23:32:42 ggsd systemd: pam_unix(systemd-user:session): session opened for user jim(uid=1000) by (uid=0)
+Sep 28 23:36:10 ggsd su: (to root) jim on pts/0
+Sep 28 23:36:10 ggsd su: pam_unix(su:session): session opened for user root(uid=0) by (uid=1000)
+Sep 28 23:36:10 ggsd systemd-logind[163]: New session c2 of user root.
+Sep 28 23:36:10 ggsd systemd: pam_unix(systemd-user:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 23:36:13 ggsd su: pam_unix(su:session): session closed for user root
+Sep 28 23:36:13 ggsd systemd-logind[163]: Session c2 logged out. Waiting for processes to exit.
+Sep 28 23:36:13 ggsd systemd-logind[163]: Removed session c2.
+Sep 28 23:36:18 ggsd su: (to root) jim on pts/0
+Sep 28 23:36:18 ggsd su: pam_unix(su:session): session opened for user root(uid=0) by (uid=1000)
+Sep 28 23:36:18 ggsd systemd-logind[163]: New session c3 of user root.
+Sep 28 23:36:20 ggsd su: pam_unix(su:session): session closed for user root
+Sep 28 23:36:20 ggsd systemd-logind[163]: Session c3 logged out. Waiting for processes to exit.
+Sep 28 23:36:20 ggsd systemd-logind[163]: Removed session c3.
+Sep 28 23:54:58 ggsd sudo:      jim : TTY=pts/0 ; PWD=/home/jim/bash-learning ; USER=root ; COMMAND=./variables.sh
+Sep 28 23:54:58 ggsd sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 28 23:54:58 ggsd sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 00:17:01 ggsd CRON[3692]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 29 00:17:01 ggsd CRON[3692]: pam_unix(cron:session): session closed for user root
+Sep 29 00:39:07 ggsd sudo:      jim : TTY=pts/0 ; PWD=/home/jim/bash-learning ; USER=root ; COMMAND=/usr/bin/apt update
+Sep 29 00:39:07 ggsd sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 29 00:39:17 ggsd sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 00:39:17 ggsd sudo:      jim : TTY=pts/0 ; PWD=/home/jim/bash-learning ; USER=root ; COMMAND=/usr/bin/apt install -y /usr/bin/htop
+Sep 29 00:39:17 ggsd sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 29 00:39:17 ggsd sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 15:17:01 ggsd CRON[4420]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 29 15:17:01 ggsd CRON[4420]: pam_unix(cron:session): session closed for user root
+Sep 29 16:17:01 ggsd CRON[4466]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 29 16:17:01 ggsd CRON[4466]: pam_unix(cron:session): session closed for user root
+Sep 30 01:15:03 ggsd sudo:      jim : TTY=pts/0 ; PWD=/home/jim/bash-learning ; USER=root ; COMMAND=/usr/bin/apt update
+Sep 30 01:15:03 ggsd sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 30 01:15:14 ggsd sudo: pam_unix(sudo:session): session closed for user root
+Sep 30 01:15:14 ggsd sudo:      jim : TTY=pts/0 ; PWD=/home/jim/bash-learning ; USER=root ; COMMAND=/usr/bin/apt dist-upgrade
+Sep 30 01:15:14 ggsd sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 30 01:17:01 ggsd CRON[10218]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 30 01:17:01 ggsd CRON[10218]: pam_unix(cron:session): session closed for user root
+Sep 30 01:17:06 ggsd sudo: pam_unix(sudo:session): session closed for user root
+Sep 30 01:18:56 ggsd sudo:      jim : TTY=pts/0 ; PWD=/home/jim/bash-learning ; USER=root ; COMMAND=/usr/bin/apt update
+Sep 30 01:18:56 ggsd sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 30 01:18:58 ggsd sudo: pam_unix(sudo:session): session closed for user root
+Sep 30 01:18:58 ggsd sudo:      jim : TTY=pts/0 ; PWD=/home/jim/bash-learning ; USER=root ; COMMAND=/usr/bin/apt dist-upgrade
+Sep 30 01:18:58 ggsd sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 30 01:18:59 ggsd sudo: pam_unix(sudo:session): session closed for user root
+Sep 30 01:20:39 ggsd sudo:      jim : TTY=pts/0 ; PWD=/home/jim/bash-learning ; USER=root ; COMMAND=/usr/bin/apt update
+Sep 30 01:20:39 ggsd sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 30 01:20:41 ggsd sudo: pam_unix(sudo:session): session closed for user root
+Sep 30 01:20:41 ggsd sudo:      jim : TTY=pts/0 ; PWD=/home/jim/bash-learning ; USER=root ; COMMAND=/usr/bin/apt dist-upgrade
+Sep 30 01:20:41 ggsd sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 30 01:20:42 ggsd sudo: pam_unix(sudo:session): session closed for user root

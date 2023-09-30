@@ -1,0 +1,276 @@
+sending incremental file list
+created directory backup//current
+./
+README.md
+argument.sh
+backup.sh
+caseStatement.sh
+date.sh
+dev
+forloop.sh
+function.sh
+ifstatement.sh
+job_results.log
+math.sh
+myscript.sh
+scheduling.sh
+universal_update.sh
+variables.sh
+whileloop.sh
+backup/
+logfiles/
+logfiles/alternatives.log
+logfiles/alternatives.log.tar.gz
+logfiles/auth.log
+logfiles/auth.log.tar.gz
+logfiles/bootstrap.log
+logfiles/bootstrap.log.tar.gz
+logfiles/dpkg.log
+logfiles/dpkg.log.tar.gz
+logfiles/kern.log
+logfiles/kern.log.tar.gz
+logfiles/ubuntu-advantage-timer.log
+logfiles/ubuntu-advantage-timer.log.tar.gz
+logfiles/ubuntu-advantage.log
+logfiles/ubuntu-advantage.log.tar.gz
+logfiles/upgrade-policy-changed.log
+logfiles/upgrade-policy-changed.log.tar.gz
+pitures/
+pitures/README.md
+pitures/argument.sh
+pitures/backup.sh
+pitures/caseStatement.sh
+pitures/date.sh
+pitures/dev
+pitures/forloop.sh
+pitures/function.sh
+pitures/ifstatement.sh
+pitures/job_results.log
+pitures/math.sh
+pitures/myscript.sh
+pitures/backup/
+pitures/logfiles/
+pitures/logfiles/alternatives.log
+pitures/logfiles/alternatives.log.tar.gz
+pitures/logfiles/auth.log
+pitures/logfiles/auth.log.tar.gz
+pitures/logfiles/bootstrap.log
+pitures/logfiles/bootstrap.log.tar.gz
+pitures/logfiles/dpkg.log
+pitures/logfiles/dpkg.log.tar.gz
+pitures/logfiles/kern.log
+pitures/logfiles/kern.log.tar.gz
+pitures/logfiles/ubuntu-advantage-timer.log
+pitures/logfiles/ubuntu-advantage-timer.log.tar.gz
+pitures/logfiles/ubuntu-advantage.log
+pitures/logfiles/ubuntu-advantage.log.tar.gz
+pitures/logfiles/upgrade-policy-changed.log
+pitures/logfiles/upgrade-policy-changed.log.tar.gz
+pitures/pitures/
+pitures/pitures/README.md
+pitures/pitures/argument.sh
+
+sent 689,900 bytes  received 1,271 bytes  1,382,342.00 bytes/sec
+total size is 685,125  speedup is 0.99
+sending incremental file list
+deleting pitures/pitures/argument.sh
+deleting pitures/pitures/README.md
+deleting pitures/pitures/
+deleting pitures/logfiles/upgrade-policy-changed.log.tar.gz
+deleting pitures/logfiles/upgrade-policy-changed.log
+deleting pitures/logfiles/ubuntu-advantage.log.tar.gz
+deleting pitures/logfiles/ubuntu-advantage.log
+deleting pitures/logfiles/ubuntu-advantage-timer.log.tar.gz
+deleting pitures/logfiles/ubuntu-advantage-timer.log
+deleting pitures/logfiles/kern.log.tar.gz
+deleting pitures/logfiles/kern.log
+deleting pitures/logfiles/dpkg.log.tar.gz
+deleting pitures/logfiles/dpkg.log
+deleting pitures/logfiles/bootstrap.log.tar.gz
+deleting pitures/logfiles/bootstrap.log
+deleting pitures/logfiles/auth.log.tar.gz
+deleting pitures/logfiles/auth.log
+deleting pitures/logfiles/alternatives.log.tar.gz
+deleting pitures/logfiles/alternatives.log
+deleting pitures/logfiles/
+deleting pitures/backup/
+deleting pitures/myscript.sh
+deleting pitures/math.sh
+deleting pitures/job_results.log
+deleting pitures/ifstatement.sh
+deleting pitures/function.sh
+deleting pitures/forloop.sh
+deleting pitures/dev
+deleting pitures/date.sh
+deleting pitures/caseStatement.sh
+deleting pitures/backup.sh
+deleting pitures/argument.sh
+deleting pitures/README.md
+deleting pitures/
+deleting logfiles/upgrade-policy-changed.log.tar.gz
+deleting logfiles/upgrade-policy-changed.log
+deleting logfiles/ubuntu-advantage.log.tar.gz
+deleting logfiles/ubuntu-advantage.log
+deleting logfiles/ubuntu-advantage-timer.log.tar.gz
+deleting logfiles/ubuntu-advantage-timer.log
+deleting logfiles/kern.log.tar.gz
+deleting logfiles/kern.log
+deleting logfiles/dpkg.log.tar.gz
+deleting logfiles/dpkg.log
+deleting logfiles/bootstrap.log.tar.gz
+deleting logfiles/bootstrap.log
+deleting logfiles/auth.log.tar.gz
+deleting logfiles/auth.log
+deleting logfiles/alternatives.log.tar.gz
+deleting logfiles/alternatives.log
+deleting logfiles/
+deleting backup/2023-09-30/pitures/pitures/argument.sh
+deleting backup/2023-09-30/pitures/pitures/README.md
+deleting backup/2023-09-30/pitures/pitures/
+deleting backup/2023-09-30/pitures/logfiles/upgrade-policy-changed.log.tar.gz
+deleting backup/2023-09-30/pitures/logfiles/upgrade-policy-changed.log
+deleting backup/2023-09-30/pitures/logfiles/ubuntu-advantage.log.tar.gz
+deleting backup/2023-09-30/pitures/logfiles/ubuntu-advantage.log
+deleting backup/2023-09-30/pitures/logfiles/ubuntu-advantage-timer.log.tar.gz
+deleting backup/2023-09-30/pitures/logfiles/ubuntu-advantage-timer.log
+deleting backup/2023-09-30/pitures/logfiles/kern.log.tar.gz
+deleting backup/2023-09-30/pitures/logfiles/kern.log
+deleting backup/2023-09-30/pitures/logfiles/dpkg.log.tar.gz
+deleting backup/2023-09-30/pitures/logfiles/dpkg.log
+deleting backup/2023-09-30/pitures/logfiles/bootstrap.log.tar.gz
+deleting backup/2023-09-30/pitures/logfiles/bootstrap.log
+deleting backup/2023-09-30/pitures/logfiles/auth.log.tar.gz
+deleting backup/2023-09-30/pitures/logfiles/auth.log
+deleting backup/2023-09-30/pitures/logfiles/alternatives.log.tar.gz
+deleting backup/2023-09-30/pitures/logfiles/alternatives.log
+deleting backup/2023-09-30/pitures/logfiles/
+deleting backup/2023-09-30/pitures/myscript.sh
+deleting backup/2023-09-30/pitures/math.sh
+deleting backup/2023-09-30/pitures/job_results.log
+deleting backup/2023-09-30/pitures/ifstatement.sh
+deleting backup/2023-09-30/pitures/function.sh
+deleting backup/2023-09-30/pitures/forloop.sh
+deleting backup/2023-09-30/pitures/dev
+deleting backup/2023-09-30/pitures/date.sh
+deleting backup/2023-09-30/pitures/caseStatement.sh
+deleting backup/2023-09-30/pitures/backup.sh
+deleting backup/2023-09-30/pitures/argument.sh
+deleting backup/2023-09-30/pitures/README.md
+deleting backup/2023-09-30/pitures/
+deleting backup/2023-09-30/logfiles/upgrade-policy-changed.log.tar.gz
+deleting backup/2023-09-30/logfiles/upgrade-policy-changed.log
+deleting backup/2023-09-30/logfiles/ubuntu-advantage.log.tar.gz
+deleting backup/2023-09-30/logfiles/ubuntu-advantage.log
+deleting backup/2023-09-30/logfiles/ubuntu-advantage-timer.log.tar.gz
+deleting backup/2023-09-30/logfiles/ubuntu-advantage-timer.log
+deleting backup/2023-09-30/logfiles/kern.log.tar.gz
+deleting backup/2023-09-30/logfiles/kern.log
+deleting backup/2023-09-30/logfiles/dpkg.log.tar.gz
+deleting backup/2023-09-30/logfiles/dpkg.log
+deleting backup/2023-09-30/logfiles/bootstrap.log.tar.gz
+deleting backup/2023-09-30/logfiles/bootstrap.log
+deleting backup/2023-09-30/logfiles/auth.log.tar.gz
+deleting backup/2023-09-30/logfiles/auth.log
+deleting backup/2023-09-30/logfiles/alternatives.log.tar.gz
+deleting backup/2023-09-30/logfiles/alternatives.log
+deleting backup/2023-09-30/logfiles/
+cannot delete non-empty directory: backup/2023-09-30
+cannot delete non-empty directory: backup
+deleting whileloop.sh
+deleting variables.sh
+deleting universal_update.sh
+deleting scheduling.sh
+deleting myscript.sh
+deleting math.sh
+deleting job_results.log
+deleting ifstatement.sh
+deleting function.sh
+deleting forloop.sh
+deleting dev
+deleting date.sh
+deleting caseStatement.sh
+deleting backup.sh
+deleting argument.sh
+deleting README.md
+./
+
+sent 53 bytes  received 4,382 bytes  8,870.00 bytes/sec
+total size is 0  speedup is 0.00
+sending incremental file list
+deleting backup/2023-09-30/backup/2023-09-30/pitures/pitures/argument.sh
+deleting backup/2023-09-30/backup/2023-09-30/pitures/pitures/README.md
+deleting backup/2023-09-30/backup/2023-09-30/pitures/pitures/
+deleting backup/2023-09-30/backup/2023-09-30/pitures/logfiles/upgrade-policy-changed.log.tar.gz
+deleting backup/2023-09-30/backup/2023-09-30/pitures/logfiles/upgrade-policy-changed.log
+deleting backup/2023-09-30/backup/2023-09-30/pitures/logfiles/ubuntu-advantage.log.tar.gz
+deleting backup/2023-09-30/backup/2023-09-30/pitures/logfiles/ubuntu-advantage.log
+deleting backup/2023-09-30/backup/2023-09-30/pitures/logfiles/ubuntu-advantage-timer.log.tar.gz
+deleting backup/2023-09-30/backup/2023-09-30/pitures/logfiles/ubuntu-advantage-timer.log
+deleting backup/2023-09-30/backup/2023-09-30/pitures/logfiles/kern.log.tar.gz
+deleting backup/2023-09-30/backup/2023-09-30/pitures/logfiles/kern.log
+deleting backup/2023-09-30/backup/2023-09-30/pitures/logfiles/dpkg.log.tar.gz
+deleting backup/2023-09-30/backup/2023-09-30/pitures/logfiles/dpkg.log
+deleting backup/2023-09-30/backup/2023-09-30/pitures/logfiles/bootstrap.log.tar.gz
+deleting backup/2023-09-30/backup/2023-09-30/pitures/logfiles/bootstrap.log
+deleting backup/2023-09-30/backup/2023-09-30/pitures/logfiles/auth.log.tar.gz
+deleting backup/2023-09-30/backup/2023-09-30/pitures/logfiles/auth.log
+deleting backup/2023-09-30/backup/2023-09-30/pitures/logfiles/alternatives.log.tar.gz
+deleting backup/2023-09-30/backup/2023-09-30/pitures/logfiles/alternatives.log
+deleting backup/2023-09-30/backup/2023-09-30/pitures/logfiles/
+deleting backup/2023-09-30/backup/2023-09-30/pitures/myscript.sh
+deleting backup/2023-09-30/backup/2023-09-30/pitures/math.sh
+deleting backup/2023-09-30/backup/2023-09-30/pitures/job_results.log
+deleting backup/2023-09-30/backup/2023-09-30/pitures/ifstatement.sh
+deleting backup/2023-09-30/backup/2023-09-30/pitures/function.sh
+deleting backup/2023-09-30/backup/2023-09-30/pitures/forloop.sh
+deleting backup/2023-09-30/backup/2023-09-30/pitures/dev
+deleting backup/2023-09-30/backup/2023-09-30/pitures/date.sh
+deleting backup/2023-09-30/backup/2023-09-30/pitures/caseStatement.sh
+deleting backup/2023-09-30/backup/2023-09-30/pitures/backup.sh
+deleting backup/2023-09-30/backup/2023-09-30/pitures/argument.sh
+deleting backup/2023-09-30/backup/2023-09-30/pitures/README.md
+deleting backup/2023-09-30/backup/2023-09-30/pitures/
+deleting backup/2023-09-30/backup/2023-09-30/logfiles/upgrade-policy-changed.log.tar.gz
+deleting backup/2023-09-30/backup/2023-09-30/logfiles/upgrade-policy-changed.log
+deleting backup/2023-09-30/backup/2023-09-30/logfiles/ubuntu-advantage.log.tar.gz
+deleting backup/2023-09-30/backup/2023-09-30/logfiles/ubuntu-advantage.log
+deleting backup/2023-09-30/backup/2023-09-30/logfiles/ubuntu-advantage-timer.log.tar.gz
+deleting backup/2023-09-30/backup/2023-09-30/logfiles/ubuntu-advantage-timer.log
+deleting backup/2023-09-30/backup/2023-09-30/logfiles/kern.log.tar.gz
+deleting backup/2023-09-30/backup/2023-09-30/logfiles/kern.log
+deleting backup/2023-09-30/backup/2023-09-30/logfiles/dpkg.log.tar.gz
+deleting backup/2023-09-30/backup/2023-09-30/logfiles/dpkg.log
+deleting backup/2023-09-30/backup/2023-09-30/logfiles/bootstrap.log.tar.gz
+deleting backup/2023-09-30/backup/2023-09-30/logfiles/bootstrap.log
+deleting backup/2023-09-30/backup/2023-09-30/logfiles/auth.log.tar.gz
+deleting backup/2023-09-30/backup/2023-09-30/logfiles/auth.log
+deleting backup/2023-09-30/backup/2023-09-30/logfiles/alternatives.log.tar.gz
+deleting backup/2023-09-30/backup/2023-09-30/logfiles/alternatives.log
+deleting backup/2023-09-30/backup/2023-09-30/logfiles/
+cannot delete non-empty directory: backup/2023-09-30/backup/2023-09-30
+cannot delete non-empty directory: backup/2023-09-30/backup
+cannot delete non-empty directory: backup/2023-09-30/backup
+deleting backup/2023-09-30/whileloop.sh
+deleting backup/2023-09-30/variables.sh
+deleting backup/2023-09-30/universal_update.sh
+deleting backup/2023-09-30/scheduling.sh
+deleting backup/2023-09-30/myscript.sh
+deleting backup/2023-09-30/math.sh
+deleting backup/2023-09-30/job_results.log
+deleting backup/2023-09-30/ifstatement.sh
+deleting backup/2023-09-30/function.sh
+deleting backup/2023-09-30/forloop.sh
+deleting backup/2023-09-30/dev
+deleting backup/2023-09-30/date.sh
+deleting backup/2023-09-30/caseStatement.sh
+deleting backup/2023-09-30/backup.sh
+deleting backup/2023-09-30/argument.sh
+deleting backup/2023-09-30/README.md
+cannot delete non-empty directory: backup/2023-09-30
+cannot delete non-empty directory: backup/2023-09-30
+cannot delete non-empty directory: backup
+./
+chrom.jpb
+
+sent 121 bytes  received 4,281 bytes  8,804.00 bytes/sec
+total size is 0  speedup is 0.00
